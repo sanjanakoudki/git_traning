@@ -2,4 +2,4 @@
 db.sql
 *.log
 notes_assets/
-important.log
+!important.log
